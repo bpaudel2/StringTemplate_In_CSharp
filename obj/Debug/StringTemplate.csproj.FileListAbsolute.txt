@@ -1,0 +1,12 @@
+C:\Users\bpaudel\source\repos\StringTemplate\StringTemplate\bin\Debug\StringTemplate.exe.config
+C:\Users\bpaudel\source\repos\StringTemplate\StringTemplate\bin\Debug\StringTemplate.exe
+C:\Users\bpaudel\source\repos\StringTemplate\StringTemplate\bin\Debug\StringTemplate.pdb
+C:\Users\bpaudel\source\repos\StringTemplate\StringTemplate\bin\Debug\Antlr3.Runtime.dll
+C:\Users\bpaudel\source\repos\StringTemplate\StringTemplate\bin\Debug\Antlr4.StringTemplate.dll
+C:\Users\bpaudel\source\repos\StringTemplate\StringTemplate\bin\Debug\Antlr3.Runtime.xml
+C:\Users\bpaudel\source\repos\StringTemplate\StringTemplate\bin\Debug\Antlr4.StringTemplate.xml
+C:\Users\bpaudel\source\repos\StringTemplate\StringTemplate\obj\Debug\StringTemplate.csprojAssemblyReference.cache
+C:\Users\bpaudel\source\repos\StringTemplate\StringTemplate\obj\Debug\StringTemplate.csproj.CoreCompileInputs.cache
+C:\Users\bpaudel\source\repos\StringTemplate\StringTemplate\obj\Debug\StringTemplate.csproj.CopyComplete
+C:\Users\bpaudel\source\repos\StringTemplate\StringTemplate\obj\Debug\StringTemplate.exe
+C:\Users\bpaudel\source\repos\StringTemplate\StringTemplate\obj\Debug\StringTemplate.pdb
